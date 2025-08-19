@@ -105,9 +105,7 @@ This project is licensed under the **MIT License**.
 
 ---
 
-## **Contact**  
-📧 **Vivek P V** – [GitHub](https://github.com/VIVEK-P-V) | [LinkedIn](https://www.linkedin.com/in/vivek-p-v-b0a415233/)  
 
----
+
 
 
